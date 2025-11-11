@@ -1,8 +1,3 @@
----
-layout: default
-title: Blue Noise Stippling
----
-
 # Blue Noise Stippling
 
 Blue-noise stippling is a technique for converting images into stippled artwork using a modified void-and-cluster algorithm. The algorithm places dots in a way that maintains even spatial distribution (blue noise), preserves tonal structure through importance mapping, and avoids clumps and regular grid patterns to produce visually pleasing results.
